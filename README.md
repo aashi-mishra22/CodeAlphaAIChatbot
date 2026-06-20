@@ -40,28 +40,6 @@ A Java Swing GUI provides an interactive chat interface where users can communic
 
 ---
 
-                               Project Structure
-
-AIChatBot/
-│
-├── src/
-│   ├── Main.java
-│   ├── ChatBotGUI.java
-│   ├── ChatBotEngine.java
-│   ├── NLPProcessor.java
-│   ├── RuleEngine.java
-│   ├── ResponseDatabase.java
-│   └── Utils.java
-│
-├── screenshots/
-│   ├── chatbot_home.png
-│   └── chatbot_chat.png
-│
-└── README.md
-
-
----
-
                            Sample Conversation
 
 Bot : Hello! I am your AI ChatBot.
@@ -115,7 +93,5 @@ The chatbot follows a Rule-Based AI approach. After preprocessing the user's inp
 👩‍💻 Author
 
 Aashi Mishra
-
 Java Programming Intern
-
 CodeAlpha
